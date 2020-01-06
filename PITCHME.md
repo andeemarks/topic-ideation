@@ -1,3 +1,5 @@
+---?image=assets/img/microphone.png
+
 # Conference Speaking
 
 ## Inspiration & Ideation
@@ -74,7 +76,8 @@ Anchors & Engines
 
 @ul[list-spaced-bullets text-09]
 * Conference Working Group (Google Chat)
-* Me
+* https://www.globaldiversitycfpday.com/
+* Luminary Support (i.e. me)
 @ulend
 
 ---
