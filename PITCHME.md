@@ -13,43 +13,45 @@
 * What do I speak about?
 * [Workshop] Topic ideation
 
++++
+
+## Assumptions
+
+@snap[west  fragment span-40]
+@box[bg-purple text-white waved box-padding](Learn#@fa[graduation-cap fa-4x])
+@snapend
+
+@snap[midpoint fragment span-40]
+@box[bg-blue text-white waved box-padding](Share#@fa[share-alt fa-4x])
+@snapend
+
+@snap[east span-40 fragment]
+@box[bg-green text-white waved box-padding](Speak#@fa[volume-up fa-4x])
+@snapend
+
 ---
 
 # Why Speak?
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 Why Speak?
 @snapend
 
-## Internal Drivers
-
-@ul[list-spaced-bullets]
-* Increase influencing skills
-* Increase visibility/profile
-* Become a topic magnet
-* Desire to share
-* Facing fears
-@ulend
-
----
-
-@snap[north-west text-05 text-bold text-smallcaps]
-Why Speak?
-@snapend
-
-## External Drivers 
-
-@ul[list-spaced-bullets text-09]
-* Grade/role expectations
-@ulend
+Internal | External 
+--- | ---
+@fa[arrow-up] influencing skills | Grade/role expectations |
+@fa[arrow-up] visibility/profile | 
+Become a topic magnet | | 
+Desire to share | |
+Facing fears | |
 
 ---
 
 # Anchors & Engines
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 Anchors & Engines
@@ -57,16 +59,18 @@ Anchors & Engines
 
 ## Anchors
 
-@ul[list-spaced-bullets text-09]
-* _But I don't have any talk ideas_
-* _But my talk idea isn't original_
-* _But what if I get rejected?_
-* _But I don't know where to start_
-* _But how will I find the time?_
-* _But... The Fear!!!_
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+- _I don't have any talk ideas_
+- _My talk idea isn't original_
+- _What if I get rejected?_
+- _I don't know where to start_
+- _How will I find the time?_
+- _The Fear!!!_
 @ulend
+@snapend
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 Anchors & Engines
@@ -77,31 +81,52 @@ Anchors & Engines
 @ul[list-spaced-bullets text-09]
 * Conference Working Group (Google Chat)
 * https://www.globaldiversitycfpday.com/
-* Luminary Support (i.e. me)
+* Your mentor
+* Your team
+* Me (as Luminary Support)
 @ulend
 
 ---
 
-## What do I speak about?
+# What do I speak about?
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
 @snapend
 
 ## Start with...
-@ul[list-spaced-bullets text-09]
-* Expertise/What you know
-* Passion/What gives you energy
-* Curiousity/What you want to learn
-* Currency/What is new
-* Sharing/What you want others to know
-* Challenging/What isn't easy
-* Drama/What is controversial
-@ulend
 
----
+@snap[midpoint span-25 text-08]
+@box[bg-blue text-white rounded box-padding](Expertise#You know 'X' well)
+@snapend
+
+@snap[west span-25 text-08 fragment]
+@box[bg-blue text-white rounded box-padding](Passion#'X' gives you energy)
+@snapend
+
+@snap[south-west span-25 text-08 fragment]
+@box[bg-orange text-white rounded box-padding](Curiousity#You want to learn 'X')
+@snapend
+
+@snap[south span-25 text-08 fragment]
+@box[bg-orange text-white rounded box-padding](Sharing#You want to teach 'X')
+@snapend
+
+@snap[south-east span-25 text-08 fragment]
+@box[bg-green text-white rounded box-padding](Challenging#'X' is hard for some)
+@snapend
+
+@snap[east span-25 text-08 fragment]
+@box[bg-green text-white rounded box-padding](Currency#'X' is new for some)
+@snapend
+
+@snap[north-east span-25 text-08 fragment]
+@box[bg-green text-white rounded box-padding](Drama#'X' is controversial)
+@snapend
+
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
@@ -109,7 +134,7 @@ What do I speak about?
 
 ## Expertise
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
@@ -117,7 +142,7 @@ What do I speak about?
 
 ## Passion
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
@@ -125,7 +150,7 @@ What do I speak about?
 
 ## Curiousity
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
@@ -133,7 +158,7 @@ What do I speak about?
 
 ## Currency
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
@@ -141,7 +166,7 @@ What do I speak about?
 
 ## Sharing
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
@@ -149,7 +174,7 @@ What do I speak about?
 
 ## Challenging
 
----
++++
 
 @snap[north-west text-05 text-bold text-smallcaps]
 What do I speak about?
@@ -159,66 +184,12 @@ What do I speak about?
 
 ---
 
-## Add Some Slide Candy
-
-![IMAGE](assets/img/presentation.png)
-
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize the Layout
-@snapend
-
-@snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
-@title[Add A Little Imagination]
-
-@snap[north-west h3-white]
-### And start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[list-spaced-bullets text-white text-09]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+# Topic Ideation
 
 ---
-@title[Let Code Do The Talking]
 
-@snap[north-east span-50 text-06 text-gray]
-Let your code do the talking.
-@snapend
+---?image=assets/img/microphone.png
 
-@code[http zoom-15](assets/src/sample.http)
+# Next stop...
 
-@snap[south span-100 text-08]
-@[1,zoom-18](You can step-and-ZOOM directly into code on any slide.)
-@[2-4,11](Using GitPitch live code-presenting with optional annotations.)
-@[4-7,10,11,zoom-15](Which means no more switching back and forth between your slide deck and IDE.)
-@snapend
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 h2-white]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Jump straight to the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+## Proposal writing!
