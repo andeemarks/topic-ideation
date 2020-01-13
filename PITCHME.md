@@ -1,23 +1,27 @@
 ---?image=assets/img/microphone.png
 
-# Conference Speaking
+@snap[north-west text-white text-30 text-smallcaps text-bold font-montserrat-heavy]
+Conference Speaking
+@snapend
 
-## Inspiration & Ideation
+@snap[south-east text-white text-20 text-bold span-40 text-center font-montserrat-heavy]
+Inspiration & Ideation
+@snapend
 
---- 
+---
 
 ## Agenda
 
-* Why speak?
-* Anchors & engines
-* What do I speak about?
-* [Workshop] Topic ideation
+- Why speak?
+- Anchors & engines
+- What do I speak about?
+- [Workshop] Topic ideation
 
 +++
 
 ## Assumptions
 
-@snap[west  fragment span-40]
+@snap[west fragment span-40]
 @box[bg-purple text-white waved box-padding](Learn#@fa[graduation-cap fa-4x])
 @snapend
 
@@ -35,17 +39,43 @@
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 Why Speak?
 @snapend
 
-Internal | External 
---- | ---
-@fa[arrow-up] influencing skills | Grade/role expectations |
-@fa[arrow-up] visibility/profile | 
-Become a topic magnet | | 
-Desire to share | |
-Facing fears | |
+## Internal Drivers
+
+@snap[west]
+@ul[list-fade-fragments list-no-bullets]
+
+- @fa[arrow-up] influencing skills
+- @fa[arrow-up] visibility/profile
+- Become a topic magnet
+- Desire to share
+- Facing fears
+
+@ulend
+@snapend
+
++++
+
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
+Why Speak?
+@snapend
+
+## External Drivers
+
+@snapend
+
+@snap[east]
+
+@ul[list-fade-fragments list-no-bullets]
+
+- Grade/role expectations
+
+@ulend
+
+@snapend
 
 ---
 
@@ -53,7 +83,7 @@ Facing fears | |
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 Anchors & Engines
 @snapend
 
@@ -61,30 +91,32 @@ Anchors & Engines
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
+
 - _I don't have any talk ideas_
 - _My talk idea isn't original_
 - _What if I get rejected?_
 - _I don't know where to start_
 - _How will I find the time?_
 - _The Fear!!!_
-@ulend
-@snapend
+  @ulend
+  @snapend
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 Anchors & Engines
 @snapend
 
 ## Engines
 
 @ul[list-spaced-bullets text-09]
-* Conference Working Group (Google Chat)
-* https://www.globaldiversitycfpday.com/
-* Your mentor
-* Your team
-* Me (as Luminary Support)
-@ulend
+
+- Conference Working Group (Google Chat)
+- https://www.globaldiversitycfpday.com/
+- Your mentor
+- Your team
+- Me (as Luminary Support)
+  @ulend
 
 ---
 
@@ -92,7 +124,7 @@ Anchors & Engines
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -128,7 +160,7 @@ What do I speak about?
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -136,7 +168,7 @@ What do I speak about?
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -144,7 +176,7 @@ What do I speak about?
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -152,7 +184,7 @@ What do I speak about?
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -160,7 +192,7 @@ What do I speak about?
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -168,7 +200,7 @@ What do I speak about?
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -176,7 +208,7 @@ What do I speak about?
 
 +++
 
-@snap[north-west text-05 text-bold text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
 What do I speak about?
 @snapend
 
@@ -190,6 +222,10 @@ What do I speak about?
 
 ---?image=assets/img/microphone.png
 
-# Next stop...
+@snap[north-west text-white text-30 text-smallcaps text-bold font-montserrat-heavy]
+Next stop
+@snapend
 
-## Proposal writing!
+@snap[south-east text-white text-20 text-bold span-40 text-center font-montserrat-heavy]
+Proposal writing!
+@snapend
