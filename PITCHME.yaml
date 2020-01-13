@@ -2,18 +2,18 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/themes/default
 #
-theme : template
-theme-background : [ "linear-gradient(100deg, white 90%, #BE5869 10%)" ]
-theme-headline   : [ "Montserrat", "#BE5869", "none" ]
-theme-byline     : [ "Montserrat", "#111111", "none" ]
-theme-text       : [ "Raleway", "#1C1C1C", "none" ]
-theme-links      : [ "#62A503", "#718C00" ]
-theme-code       : [ "Fira Code" ]
-theme-controls   : [ "#C0C0C0" ]
-theme-margins    : [ "0", "15px" ]
+theme: template
+theme-background: ["linear-gradient(100deg, white 90%, #BE5869 10%)"]
+theme-headline: ["Montserrat", "#BE5869", "none"]
+theme-byline: ["Montserrat", "#111111", "none"]
+theme-text: ["Raleway", "#1C1C1C", "none"]
+theme-links: ["#62A503", "#718C00"]
+theme-code: ["Fira Code"]
+theme-controls: ["#C0C0C0"]
+theme-margins: ["0", "15px"]
 
-highlight        : tomorrow
-transition : fade
+highlight: tomorrow
+transition: fade
 
 #
 # Code Highlight Setting
@@ -31,24 +31,39 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
-logo-position : top-left
+logo: assets/img/logo.png
+logo-position: bottom-left
 
 #
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : top-left
+layout: top-left
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Conference Speaking - Inspiration & Ideation"
+footnote: " "
 
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
-published : true
+published: true
 
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+theme-background : [ "#EEEEEE" ]
+theme-headline   : [ "Montserrat", "#1C1C1C", "none", "#1C1C1C", "100", "120", "15" ]
+theme-byline     : [ "Montserrat", "#272626", "none", "#333", "100", "110", "15" ]
+theme-text       : [ "Raleway", "#272626", "none", "#333", "100", "100", "15" ]
+theme-links      : [ "#62A503", "#718C00" ]
+theme-code       : [ "Fira Code", "100", "120" ]
+highlight        : tomorrow
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+logo             : assets/img/logo.png
+logo-position    : top-left
+layout           : top-left
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
