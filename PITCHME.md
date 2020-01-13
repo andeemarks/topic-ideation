@@ -110,13 +110,13 @@ Anchors & Engines
 ## Engines
 
 @ul[list-spaced-bullets text-09]
-
-- Conference Working Group (Google Chat)
-- https://www.globaldiversitycfpday.com/
-- Your mentor
-- Your team
-- Me (as Luminary Support)
-  @ulend
+* Conference Working Group (Google Chat)
+* https://www.globaldiversitycfpday.com/ (tomorrow!)
+* Your mentor
+* Your team
+* Me 
+* Every conference organiser ever @fa[smile-wink]
+@ulend
 
 ---
 
@@ -131,31 +131,31 @@ What do I speak about?
 ## Start with...
 
 @snap[midpoint span-25 text-08]
-@box[bg-blue text-white rounded box-padding](Expertise#You know 'X' well)
+@box[bg-blue text-white rounded box-padding](1. Expertise#You know 'X' well)
 @snapend
 
 @snap[west span-25 text-08 fragment]
-@box[bg-blue text-white rounded box-padding](Passion#'X' gives you energy)
+@box[bg-blue text-white rounded box-padding](2. Passion#'X' gives you energy)
 @snapend
 
 @snap[south-west span-25 text-08 fragment]
-@box[bg-orange text-white rounded box-padding](Curiousity#You want to learn 'X')
+@box[bg-orange text-white rounded box-padding](3. Curiousity#You want to learn 'X')
 @snapend
 
 @snap[south span-25 text-08 fragment]
-@box[bg-orange text-white rounded box-padding](Sharing#You want to teach 'X')
+@box[bg-orange text-white rounded box-padding](4. Sharing#You want to teach 'X')
 @snapend
 
 @snap[south-east span-25 text-08 fragment]
-@box[bg-green text-white rounded box-padding](Challenging#'X' is hard for some)
+@box[bg-green text-white rounded box-padding](5. Challenging#'X' is hard for some)
 @snapend
 
 @snap[east span-25 text-08 fragment]
-@box[bg-green text-white rounded box-padding](Currency#'X' is new for some)
+@box[bg-green text-white rounded box-padding](6. Currency#'X' is new for some)
 @snapend
 
 @snap[north-east span-25 text-08 fragment]
-@box[bg-green text-white rounded box-padding](Drama#'X' is controversial)
+@box[bg-green text-white rounded box-padding](7. Drama#'X' is controversial)
 @snapend
 
 +++
@@ -165,6 +165,15 @@ What do I speak about?
 @snapend
 
 ## Expertise
+
+
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+- Capabilities inherent in your role
+- Stuff from your current project
+- Stuff from your last _n_ projects
+@ulend
+@snapend
 
 +++
 
