@@ -135,6 +135,7 @@ Anchors & Engines
 
 @fa[rocket] Conference Working Group (Google Chat)
 @fa[rocket] https://www.globaldiversitycfpday.com/
+@fa[rocket] YOW! New Voices in Tech program
 @fa[rocket] Your mentor
 @fa[rocket] Your team
 @fa[rocket] Me
