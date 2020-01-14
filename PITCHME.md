@@ -93,7 +93,7 @@ Why Speak?
 
 ## Perspective!
 
-@snap[midpoint span-100 text-12 text-orange]
+@snap[midpoint span-80 text-15 text-orange]
 @quote[Speaking is a **means to an end** - not an end unto itself]
 @snapend
 
