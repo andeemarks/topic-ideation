@@ -166,6 +166,9 @@ What do I speak about?
 
 ## Expertise
 
+@snap[north-east span-25 text-08]
+@box[bg-blue text-white rounded box-padding](1. Expertise#You know 'X' well)
+@snapend
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
@@ -183,6 +186,10 @@ What do I speak about?
 
 ## Passion
 
+@snap[north-east span-25 text-08]
+@box[bg-blue text-white rounded box-padding](2. Passion#'X' gives you energy)
+@snapend
+
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
@@ -191,13 +198,9 @@ What do I speak about?
 
 ## Curiousity
 
-+++
-
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+@snap[north-east span-25 text-08]
+@box[bg-orange text-white rounded box-padding](3. Curiousity#You want to learn 'X')
 @snapend
-
-## Currency
 
 +++
 
@@ -207,6 +210,10 @@ What do I speak about?
 
 ## Sharing
 
+@snap[north-east span-25 text-08]
+@box[bg-orange text-white rounded box-padding](4. Sharing#You want to teach 'X')
+@snapend
+
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
@@ -215,6 +222,22 @@ What do I speak about?
 
 ## Challenging
 
+@snap[north-east span-25 text-08]
+@box[bg-green text-white rounded box-padding](5. Challenging#'X' is hard for some)
+@snapend
+
++++
+
+@snap[north-west text-05 text-bold text-orange text-smallcaps]
+What do I speak about?
+@snapend
+
+## Currency
+
+@snap[north-east span-25 text-08]
+@box[bg-green text-white rounded box-padding](6. Currency#'X' is new for some)
+@snapend
+
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
@@ -222,6 +245,10 @@ What do I speak about?
 @snapend
 
 ## Drama
+
+@snap[north-east span-25 text-08]
+@box[bg-green text-white rounded box-padding](7. Drama#'X' is controversial)
+@snapend
 
 ---
 
