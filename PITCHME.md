@@ -12,10 +12,10 @@ Inspiration & Ideation
 
 ## Agenda
 
-- Why speak?
-- Anchors & engines
-- What do I speak about?
-- [Workshop] Topic ideation
+- Inspiration/Why speak?
+- Inspiration/Anchors & engines
+- Ideation/Topic identification
+- Ideation/Exercise
 
 +++
 
@@ -110,22 +110,23 @@ Anchors & Engines
 ## Engines
 
 @ul[list-spaced-bullets text-09]
-* Conference Working Group (Google Chat)
-* https://www.globaldiversitycfpday.com/ (tomorrow!)
-* Your mentor
-* Your team
-* Me 
-* Every conference organiser ever @fa[smile-wink]
-@ulend
+
+- Conference Working Group (Google Chat)
+- https://www.globaldiversitycfpday.com/ (tomorrow!)
+- Your mentor
+- Your team
+- Me
+- Every conference organiser ever @fa[smile-wink]
+  @ulend
 
 ---
 
-# What do I speak about?
+# Topic Identification
 
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Start with...
@@ -161,7 +162,7 @@ What do I speak about?
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Expertise
@@ -172,16 +173,17 @@ What do I speak about?
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
+
 - Capabilities inherent in your role
 - Stuff from your current project
 - Stuff from your last _n_ projects
-@ulend
-@snapend
+  @ulend
+  @snapend
 
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Passion
@@ -193,7 +195,7 @@ What do I speak about?
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Curiousity
@@ -205,7 +207,7 @@ What do I speak about?
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Sharing
@@ -217,7 +219,7 @@ What do I speak about?
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Challenging
@@ -229,7 +231,7 @@ What do I speak about?
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Currency
@@ -241,7 +243,7 @@ What do I speak about?
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps]
-What do I speak about?
+Topic identification
 @snapend
 
 ## Drama
