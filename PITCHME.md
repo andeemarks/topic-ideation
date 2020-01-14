@@ -1,10 +1,10 @@
----?image=assets/img/microphone.png&opacity=70
+---?image=assets/img/microphone.png&opacity=80
 
-@snap[north-west text-white text-30 text-smallcaps text-bold font-montserrat-heavy]
+@snap[north-west text-orange text-30 text-smallcaps text-bold font-montserrat-heavy]
 Conference Speaking
 @snapend
 
-@snap[south-east text-white text-20 text-bold span-40 text-center font-montserrat-heavy]
+@snap[south-east text-orange text-20 text-bold span-40 text-center font-montserrat-heavy]
 Inspiration & Ideation
 @snapend
 
@@ -45,7 +45,7 @@ Audience
 @box[bg-green text-white waved box-padding](Speak#@fa[volume-up fa-4x])
 @snapend
 
----
+---?color=orange
 
 # Why Speak?
 
@@ -85,7 +85,7 @@ Why Speak?
 @ulend
 @snapend
 
----
+---?color=orange
 
 # Anchors & Engines
 
@@ -128,7 +128,7 @@ Anchors & Engines
 
 @ulend
 
----
+---?color=orange
 
 # Topic
 
@@ -264,7 +264,7 @@ Topic identification
 @box[bg-green text-white rounded box-padding](7. Drama#'X' is controversial)
 @snapend
 
----
+---?color=orange
 
 # Topic Ideation
 
@@ -285,12 +285,12 @@ _Create 3 possible topics_
 
 ---
 
----?image=assets/img/microphone.png&opacity=70
+---?image=assets/img/microphone.png&opacity=80
 
-@snap[north-west text-white text-30 text-smallcaps text-bold font-montserrat-heavy]
+@snap[north-west text-orange text-30 text-smallcaps text-bold font-montserrat-heavy]
 Next stop
 @snapend
 
-@snap[south-east text-white text-20 text-bold span-40 text-center font-montserrat-heavy]
+@snap[south-east text-orange text-20 text-bold span-40 text-center font-montserrat-heavy]
 Proposal writing!
 @snapend
