@@ -12,12 +12,24 @@ Inspiration & Ideation
 
 ## Agenda
 
-- Inspiration/Why speak?
-- Inspiration/Anchors & engines
-- Ideation/Topic identification
-- Ideation/Exercise
+@snap[midpoint fragment text-center]
+
+@ul[list-no-bullets list-fade-fragments]
+
+Why speak?
+Anchors & engines
+Topic identification
+Ideation Exercise
+
+@ulend
+
+@snapend
 
 +++
+
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
+Audience
+@snapend
 
 ## Assumptions
 
@@ -39,7 +51,7 @@ Inspiration & Ideation
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Why Speak?
 @snapend
 
@@ -48,18 +60,18 @@ Why Speak?
 @snap[west]
 @ul[list-fade-fragments list-no-bullets]
 
-- @fa[arrow-up] influencing skills
-- @fa[arrow-up] visibility/profile
-- Become a topic magnet
-- Desire to share
-- Facing fears
+@fa[bullseye] influencing skills
+@fa[eye] visibility/profile
+@fa[magnet] Become a topic magnet
+@fa[share-alt] Desire to share
+@fa[ghost] Facing fears
 
 @ulend
 @snapend
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Why Speak?
 @snapend
 
@@ -83,7 +95,7 @@ Why Speak?
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Anchors & Engines
 @snapend
 
@@ -103,7 +115,7 @@ Anchors & Engines
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Anchors & Engines
 @snapend
 
@@ -125,7 +137,7 @@ Anchors & Engines
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
@@ -161,7 +173,7 @@ Topic identification
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
@@ -182,7 +194,7 @@ Topic identification
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
@@ -194,7 +206,7 @@ Topic identification
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
@@ -206,7 +218,7 @@ Topic identification
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
@@ -218,7 +230,7 @@ Topic identification
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
@@ -230,7 +242,7 @@ Topic identification
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
@@ -242,7 +254,7 @@ Topic identification
 
 +++
 
-@snap[north-west text-05 text-bold text-orange text-smallcaps]
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
