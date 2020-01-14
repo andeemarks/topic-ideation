@@ -171,7 +171,7 @@ Topic identification
 @snapend
 
 @snap[south span-25 text-08 fragment]
-@box[bg-orange text-white rounded box-padding](4. Sharing#You want to teach 'X')
+@box[bg-orange text-white rounded box-padding](4. Uniqueness#Your own take on 'X')
 @snapend
 
 @snap[south-east span-25 text-08 fragment]
@@ -201,9 +201,9 @@ Topic identification
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
 
-- Capabilities inherent in your role
-- Stuff from your current project
-- Stuff from your last _n_ projects
+- Capabilities inherent in **your role**
+- Stuff from **your current project**
+- Stuff from **your last _n_ projects**
 
 @ulend
 @snapend
@@ -220,6 +220,13 @@ Topic identification
 @box[bg-blue text-white rounded box-padding](2. Passion#'X' gives you energy)
 @snapend
 
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+
+- What are your **hobbies?**
+
+@ulend
+@snapend
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
@@ -232,18 +239,39 @@ Topic identification
 @box[bg-orange text-white rounded box-padding](3. Curiousity#You want to learn 'X')
 @snapend
 
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+
+- Most recent Tech Radar
+- Book budget
+- Training budget
+- To Do lists
+- Bookmarks
+
+@ulend
+@snapend
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
 Topic identification
 @snapend
 
-## Sharing
+## Uniqueness
 
 @snap[north-east span-25 text-08]
-@box[bg-orange text-white rounded box-padding](4. Sharing#You want to teach 'X')
+@box[bg-orange text-white rounded box-padding](4. Uniqueness#Your own take on 'X')
 @snapend
 
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+
+- Pair with a TWer (different role)
+- Pair with a client
+- Your background + 'X'
+- Your interests + 'X'
+
+@ulend
+@snapend
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
@@ -256,6 +284,19 @@ Topic identification
 @box[bg-green text-white rounded box-padding](5. Challenging#'X' is hard for some)
 @snapend
 
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+
+- ... at scale
+- ... for distributed teams
+- ... for hardware/IoT
+- ... while staying secure
+- ... through an ethical lens
+- ... in regulated industries
+- ... if you're not Netflix
+
+@ulend
+@snapend
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
