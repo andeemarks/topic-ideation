@@ -55,17 +55,11 @@ Audience
 Why Speak?
 @snapend
 
-## Internal Drivers
+## Exercise
 
-@snap[west]
-@ul[list-fade-fragments list-no-bullets]
-
-@fa[bullseye] influencing skills
-@fa[eye] visibility/profile
-@fa[magnet] Become a topic magnet
-@fa[share-alt] Desire to share
-@fa[ghost] Facing fears
-
+@snap[midpoint span-100]
+@fa[user-edit fa-5x]
+_Why do you want to speak?_
 @ulend
 @snapend
 
@@ -75,18 +69,19 @@ Why Speak?
 Why Speak?
 @snapend
 
-## External Drivers
+## Drivers
 
-@snapend
-
-@snap[east]
-
+@snap[midpoint span-100]
 @ul[list-fade-fragments list-no-bullets]
 
-- Grade/role expectations
+@fa[bullseye] influencing skills
+@fa[eye] visibility/profile
+@fa[magnet] Become a topic magnet
+@fa[share-alt] Desire to share
+@fa[ghost] Facing fears
+@fa[check-circle] Grade/role expectations
 
 @ulend
-
 @snapend
 
 ---
