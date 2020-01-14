@@ -1,4 +1,4 @@
----?image=assets/img/microphone.png
+---?image=assets/img/microphone.png&opacity=70
 
 @snap[north-west text-white text-30 text-smallcaps text-bold font-montserrat-heavy]
 Conference Speaking
@@ -60,6 +60,7 @@ Why Speak?
 @snap[midpoint span-100]
 @fa[user-edit fa-5x]
 _Why do you want to speak?_
+@fa[stopwatch] 5 minutes
 @ulend
 @snapend
 
@@ -124,11 +125,14 @@ Anchors & Engines
 - Your team
 - Me
 - Every conference organiser ever @fa[smile-wink]
-  @ulend
+
+@ulend
 
 ---
 
-# Topic Identification
+# Topic
+
+## Identification
 
 +++
 
@@ -184,8 +188,9 @@ Topic identification
 - Capabilities inherent in your role
 - Stuff from your current project
 - Stuff from your last _n_ projects
-  @ulend
-  @snapend
+
+@ulend
+@snapend
 
 +++
 
@@ -263,9 +268,24 @@ Topic identification
 
 # Topic Ideation
 
++++
+
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
+Topic Ideation
+@snapend
+
+## Exercise
+
+@snap[midpoint span-100]
+@fa[user-edit fa-5x]
+_Create 3 possible topics_
+@fa[stopwatch] 20 minutes
+@ulend
+@snapend
+
 ---
 
----?image=assets/img/microphone.png
+---?image=assets/img/microphone.png&opacity=70
 
 @snap[north-west text-white text-30 text-smallcaps text-bold font-montserrat-heavy]
 Next stop
