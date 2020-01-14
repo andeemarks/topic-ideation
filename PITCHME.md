@@ -85,6 +85,10 @@ Why Speak?
 @ulend
 @snapend
 
+Note:
+
+- Perspective slide next!!! Don't forget it
+
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
@@ -134,7 +138,7 @@ Anchors & Engines
 @ul[list-spaced-bullets]
 
 @fa[rocket] Conference Working Group (Google Chat)
-@fa[rocket] https://www.globaldiversitycfpday.com/
+@fa[rocket] Global Diversity CFP Day
 @fa[rocket] YOW! New Voices in Tech program
 @fa[rocket] Your mentor
 @fa[rocket] Your team
@@ -242,7 +246,6 @@ Topic identification
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
 
-- Most recent Tech Radar
 - Book budget
 - Training budget
 - To Do lists
@@ -284,19 +287,20 @@ Topic identification
 @box[bg-green text-white rounded box-padding](5. Challenging#'X' is hard for some)
 @snapend
 
-@snap[midpoint text-center span-100]
+@snap[midpoint text-left span-70]
 @ul[list-fade-fragments list-no-bullets ]
 
-- ... at scale
-- ... for distributed teams
-- ... for hardware/IoT
-- ... while staying secure
-- ... through an ethical lens
-- ... in regulated industries
-- ... if you're not Netflix
+... at scale
+... for distributed teams
+... for hardware/IoT
+... while staying secure
+... through an ethical lens
+... in regulated industries
+... if you're not Netflix
 
 @ulend
 @snapend
+
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
@@ -307,6 +311,14 @@ Topic identification
 
 @snap[north-east span-25 text-08]
 @box[bg-green text-white rounded box-padding](6. Currency#'X' is new for some)
+@snapend
+
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+
+- Most recent Tech Radar
+
+@ulend
 @snapend
 
 +++
