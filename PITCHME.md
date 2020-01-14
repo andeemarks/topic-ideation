@@ -85,6 +85,18 @@ Why Speak?
 @ulend
 @snapend
 
++++
+
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
+Why Speak?
+@snapend
+
+## Perspective!
+
+@snap[midpoint span-100 text-12 text-orange]
+@quote[Speaking is a **means to an end** - not an end unto itself]
+@snapend
+
 ---?color=orange
 
 # Anchors & Engines
@@ -97,17 +109,18 @@ Anchors & Engines
 
 ## Anchors
 
-@snap[midpoint text-center span-100]
+@snap[midpoint text-left span-70 text-08]
 @ul[list-fade-fragments list-no-bullets ]
 
-- _I don't have any talk ideas_
-- _My talk idea isn't original_
-- _What if I get rejected?_
-- _I don't know where to start_
-- _How will I find the time?_
-- _The Fear!!!_
-  @ulend
-  @snapend
+@fa[anchor] _I don't have any talk ideas_
+@fa[anchor] _My talk idea isn't original_
+@fa[anchor] _What if I get rejected?_
+@fa[anchor] _I don't know where to start_
+@fa[anchor] _How will I find the time?_
+@fa[anchor] _The Fear!!!_
+
+@ulend
+@snapend
 
 +++
 
@@ -117,16 +130,18 @@ Anchors & Engines
 
 ## Engines
 
-@ul[list-spaced-bullets text-09]
+@snap[midpoint text-left span-70 text-08]
+@ul[list-spaced-bullets]
 
-- Conference Working Group (Google Chat)
-- https://www.globaldiversitycfpday.com/ (tomorrow!)
-- Your mentor
-- Your team
-- Me
-- Every conference organiser ever @fa[smile-wink]
+@fa[rocket] Conference Working Group (Google Chat)
+@fa[rocket] https://www.globaldiversitycfpday.com/
+@fa[rocket] Your mentor
+@fa[rocket] Your team
+@fa[rocket] Me
+@fa[rocket] Every conference organiser ever @fa[smile-wink]
 
 @ulend
+@snapend
 
 ---?color=orange
 
