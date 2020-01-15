@@ -360,6 +360,14 @@ _Create 3 possible topics_
 @ulend
 @snapend
 
+---?color=orange
+
+@snap[midpoint]
+
+# Conclusion
+
+@snapend
+
 ---?image=assets/img/microphone.png&opacity=80
 
 @snap[north-west text-orange text-30 text-smallcaps text-bold font-montserrat-heavy]
