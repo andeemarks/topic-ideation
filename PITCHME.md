@@ -47,7 +47,11 @@ Audience
 
 ---?color=orange
 
+@snap[midpoint]
+
 # Why Speak?
+
+@snapend
 
 +++
 
@@ -103,7 +107,11 @@ Why Speak?
 
 ---?color=orange
 
+@snap[midpoint]
+
 # Anchors & Engines
+
+@snapend
 
 +++
 
@@ -150,9 +158,13 @@ Anchors & Engines
 
 ---?color=orange
 
+@snap[midpoint]
+
 # Topic
 
 ## Identification
+
+@snapend
 
 +++
 
@@ -335,7 +347,11 @@ Topic identification
 
 ---?color=orange
 
+@snap[midpoint]
+
 # Topic Ideation
+
+@snapend
 
 +++
 
