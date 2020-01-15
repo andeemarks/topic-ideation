@@ -327,6 +327,16 @@ Topic identification
 @box[bg-green text-white rounded box-padding](7. Drama#'X' is controversial)
 @snapend
 
+@snap[midpoint text-center span-100]
+@ul[list-fade-fragments list-no-bullets ]
+- DevOps teams
+- #noestimates
+- Feature Branching + CI
+- SAFe
+- 10x Engineers
+@ulend
+@snapend
+
 ---?color=orange
 
 @snap[midpoint]
