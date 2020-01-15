@@ -13,16 +13,12 @@ Inspiration & Ideation
 ## Agenda
 
 @snap[midpoint fragment text-center]
-
 @ul[list-no-bullets list-fade-fragments]
-
-Why speak?
-Anchors & engines
-Topic identification
-Ideation Exercise
-
+- Why speak?
+- Anchors & engines
+- Topic identification
+- Ideation Exercise
 @ulend
-
 @snapend
 
 +++
@@ -78,14 +74,12 @@ Why Speak?
 
 @snap[midpoint span-100]
 @ul[list-fade-fragments list-no-bullets]
-
-@fa[bullseye] influencing skills
-@fa[eye] visibility/profile
-@fa[magnet] Become a topic magnet
-@fa[share-alt] Desire to share
-@fa[ghost] Facing fears
-@fa[check-circle] Grade/role expectations
-
+- @fa[bullseye] influencing skills
+- @fa[eye] visibility/profile
+- @fa[magnet] Become a topic magnet
+- @fa[share-alt] Desire to share
+- @fa[ghost] Facing fears
+- @fa[check-circle] Grade/role expectations
 @ulend
 @snapend
 
@@ -123,14 +117,12 @@ Anchors & Engines
 
 @snap[midpoint text-left span-70 text-08]
 @ul[list-fade-fragments list-no-bullets ]
-
-@fa[anchor] _I don't have any talk ideas_
-@fa[anchor] _My talk idea isn't original_
-@fa[anchor] _What if I get rejected?_
-@fa[anchor] _I don't know where to start_
-@fa[anchor] _How will I find the time?_
-@fa[anchor] _The Fear!!!_
-
+- @fa[anchor] _I don't have any talk ideas_
+- @fa[anchor] _My talk idea isn't original_
+- @fa[anchor] _What if I get rejected?_
+- @fa[anchor] _I don't know where to start_
+- @fa[anchor] _How will I find the time?_
+- @fa[anchor] _The Fear!!!_
 @ulend
 @snapend
 
@@ -143,16 +135,14 @@ Anchors & Engines
 ## Engines
 
 @snap[midpoint text-left span-70 text-08]
-@ul[list-spaced-bullets]
-
-@fa[rocket] Conference Working Group (Google Chat)
-@fa[rocket] Global Diversity CFP Day
-@fa[rocket] YOW! New Voices in Tech program
-@fa[rocket] Your mentor
-@fa[rocket] Your team
-@fa[rocket] Me
-@fa[rocket] Every conference organiser ever @fa[smile-wink]
-
+@ul[list-no-bullets list-fade-fragments]
+- @fa[rocket] Conference Working Group
+- @fa[rocket] Global Diversity CFP Day
+- @fa[rocket] YOW! New Voices in Tech program
+- @fa[rocket] Your mentor
+- @fa[rocket] Your team
+- @fa[rocket] Me
+- @fa[rocket] Every. Conference. Organiser. Ever!
 @ulend
 @snapend
 
@@ -216,11 +206,9 @@ Topic identification
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
-
 - Capabilities inherent in **your role**
 - Stuff from **your current project**
 - Stuff from **your last _n_ projects**
-
 @ulend
 @snapend
 
@@ -238,9 +226,7 @@ Topic identification
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
-
 - What are your **hobbies?**
-
 @ulend
 @snapend
 +++
@@ -257,14 +243,13 @@ Topic identification
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
-
 - Book budget
 - Training budget
 - To Do lists
 - Bookmarks
-
 @ulend
 @snapend
+
 +++
 
 @snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
@@ -279,12 +264,10 @@ Topic identification
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
-
 - Pair with a TWer (different role)
 - Pair with a client
 - Your background + 'X'
 - Your interests + 'X'
-
 @ulend
 @snapend
 +++
@@ -301,15 +284,13 @@ Topic identification
 
 @snap[midpoint text-left span-70]
 @ul[list-fade-fragments list-no-bullets ]
-
-... at scale
-... for distributed teams
-... for hardware/IoT
-... while staying secure
-... through an ethical lens
-... in regulated industries
-... if you're not Netflix
-
+- ... at scale
+- ... for distributed teams
+- ... for hardware/IoT
+- ... while staying secure
+- ... through an ethical lens
+- ... in regulated industries
+- ... if you're not Netflix
 @ulend
 @snapend
 
@@ -327,9 +308,7 @@ Topic identification
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
-
-- Most recent Tech Radar
-
+- www.thoughtworks.com/radar
 @ulend
 @snapend
 
