@@ -58,7 +58,7 @@ Why Speak?
 ## Exercise
 
 @snap[midpoint span-100]
-@fa[user-edit fa-5x]
+@fa[pencil-alt fa-5x]
 _Why do you want to speak?_
 @fa[stopwatch] 5 minutes
 @ulend
@@ -105,6 +105,21 @@ Why Speak?
 
 # Anchors & Engines
 
+@snapend
+
++++
+
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
+Anchors & Engines
+@snapend
+
+## Exercise
+
+@snap[midpoint span-100]
+@fa[pencil-alt fa-5x]
+_What is stopping you from doing (more) public speaking?_
+@fa[stopwatch] 10 minutes
+@ulend
 @snapend
 
 +++
@@ -354,7 +369,7 @@ Topic Ideation
 ## Exercise
 
 @snap[midpoint span-100]
-@fa[user-edit fa-5x]
+@fa[pencil-alt fa-5x]
 _Create 3 possible topics_
 @fa[stopwatch] 20 minutes
 @ulend
