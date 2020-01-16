@@ -72,6 +72,10 @@ Why Speak?
 
 ## Drivers
 
+@snap[north-east span-25 text-08]
+@box[bg-orange text-white rounded box-padding](@fa[carrot fa-2x])
+@snapend
+
 @snap[midpoint span-100]
 @ul[list-fade-fragments list-no-bullets]
 - @fa[bullseye] influencing skills
@@ -130,6 +134,10 @@ Anchors & Engines
 
 ## Anchors
 
+@snap[north-east span-25 text-08]
+@box[bg-orange text-white rounded box-padding](@fa[anchor fa-2x])
+@snapend
+
 @snap[midpoint text-left span-70 text-08]
 @ul[list-fade-fragments list-no-bullets ]
 - @fa[anchor] _I don't have any talk ideas_
@@ -148,6 +156,10 @@ Anchors & Engines
 @snapend
 
 ## Engines
+
+@snap[north-east span-25 text-08]
+@box[bg-orange text-white rounded box-padding](@fa[rocket fa-2x])
+@snapend
 
 @snap[midpoint text-left span-70 text-08]
 @ul[list-no-bullets list-fade-fragments]
