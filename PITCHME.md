@@ -204,11 +204,11 @@ Topic identification
 @snapend
 
 @snap[south-west span-25 text-08 fragment]
-@box[bg-orange text-white rounded](3. Curiousity#You want to learn 'X')
+@box[bg-purple text-white rounded](3. Curiousity#You want to learn 'X')
 @snapend
 
 @snap[south span-25 text-08 fragment]
-@box[bg-orange text-white rounded](4. Uniqueness#Your own take on 'X')
+@box[bg-purple text-white rounded](4. Uniqueness#Your own take on 'X')
 @snapend
 
 @snap[south-east span-25 text-08 fragment]
@@ -269,7 +269,7 @@ Topic identification
 ## Curiousity
 
 @snap[north-east span-25 text-08]
-@box[bg-orange text-white rounded](3. Curiousity#You want to learn 'X')
+@box[bg-purple text-white rounded](3. Curiousity#You want to learn 'X')
 @snapend
 
 @snap[midpoint text-center span-100]
@@ -290,7 +290,7 @@ Topic identification
 ## Uniqueness
 
 @snap[north-east span-25 text-08]
-@box[bg-orange text-white rounded](4. Uniqueness#Your own take on 'X')
+@box[bg-purple text-white rounded](4. Uniqueness#Your own take on 'X')
 @snapend
 
 @snap[midpoint text-center span-100]
