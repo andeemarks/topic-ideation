@@ -384,7 +384,7 @@ Topic Ideation
 @snap[midpoint span-60]
 @fa[pencil-alt fa-5x]
 @css[text-orange text-15](_Create 3 possible topics_)
-@fa[stopwatch] 20 minutes
+@fa[stopwatch] 15 minutes
 @ulend
 @snapend
 
