@@ -157,6 +157,7 @@ Anchors & Engines
 - @fa[rocket] Your mentor
 - @fa[rocket] Your team
 - @fa[rocket] Me
+- @fa[rocket] ThoughtWorks
 - @fa[rocket] Every. @css[fragment](Conference. ) @css[fragment](Organiser. ) @css[fragment](Ever!)
 
 @ulend
