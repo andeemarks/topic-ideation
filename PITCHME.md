@@ -295,10 +295,10 @@ Topic identification
 
 @snap[midpoint text-center span-100]
 @ul[list-fade-fragments list-no-bullets ]
-- Pair with a TWer (different role)
-- Pair with a client
 - Your background + 'X'
 - Your interests + 'X'
+- Pair with a TWer (different role)
+- Pair with a client
 @ulend
 @snapend
 +++
