@@ -388,6 +388,25 @@ Topic Ideation
 @ulend
 @snapend
 
++++
+
+@snap[north-west text-05 text-bold text-orange text-smallcaps font-montserrat-heavy]
+Topic Ideation
+@snapend
+
+## Exercise
+
+@snap[north-east span-30 text-06]
+@fa[pencil-alt]
+@css[text-orange](_Create 3 possible topics_)
+@fa[stopwatch] 15 minutes
+@ulend
+@snapend
+
+@snap[midpoint span-80]
+@img[](assets/img/topic-help.png)
+@snapend
+
 ---?color=orange
 
 @snap[midpoint]
