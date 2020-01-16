@@ -122,7 +122,7 @@ Anchors & Engines
 @snap[midpoint span-70]
 @fa[pencil-alt fa-5x]
 @css[text-orange text-15](_What is stopping you from public speaking?_)
-@fa[stopwatch] 10 minutes
+@fa[stopwatch] 5 minutes
 @ulend
 @snapend
 
@@ -435,7 +435,7 @@ Topic Ideation
 @snapend
 
 @snap[south-east span-50 text-06 text-center fragment]
-@img[](http://i.imgur.com/P9wk64H.png)
+@img[](http://i.imgur.com/jcKDUr3.png)
 @snapend
 
 @snap[midpoint span-70 text-15 text-orange fragment bg-white]
